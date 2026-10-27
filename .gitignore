@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+Como-tirar-o-visto-americano-em-2027 PARTE 1.pdf
+Entrevista-no-consulado-o-que-esperar parte 2 final.pdf
